@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<config>
+    <root_tag name="SW_BM_R0P0T0_BEV_SP21_7k4W" />
+    <root_svn_path>https://example.com/svn/project_path/CI/CI_packages/BM_packs/tags/BEV_SP21_22kW</root_svn_path>
+    <root_source svn_path="https://example.com/svn/project_path/trunk/Design/Software/Implementation/FBL/ComController/BEV_SP2021_22kW_NewMemLayoutR8/BM" />
+    <BM>
+        <folder name="10_BM_XCP_D1" revision="509543" />
+        <folder name="11_BM_XETK_D1" revision="509500" />
+    </BM>
+</config>
