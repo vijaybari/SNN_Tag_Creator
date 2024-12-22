@@ -4,3 +4,4 @@
 # and copies the specified folders to that tag.
 
 # This will be helpful to create tags out of mutiple commits in a same svn repo based on revision we can create different folders.
+# For more detils you can check the input xml files
